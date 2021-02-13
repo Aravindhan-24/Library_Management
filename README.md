@@ -21,6 +21,6 @@ Librarian module consists of several functionalities,
          4.View issued book.
          5.Return book.
          
-         The librarian can login using the name and password created by admin and can change the password using forget password, which was intially given by Admin using registered          email address. The librarian can add book name,number,quantity,etc... in add book and can view the available books in view book. The librarian can issue book using                book number, student id and contact, can view the issued book and return the book using book number and student id.
+    The librarian can login using the name and password created by admin and can change the password using forget password, which was intially given by Admin using registered email address. The librarian can add book name,number,quantity,etc... in add book and can view the available books in view book. The librarian can issue book using book number, student id and contact, can view the issued book and return the book using book number and student id.
 
 Built Tools:Netbeans, Java, Servlets and JSP, SQL, JDBC.
