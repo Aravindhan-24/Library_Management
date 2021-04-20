@@ -5,7 +5,7 @@ This project consists of 2 main modules,
           1. Admin module.
           2. Librarian module.
           
-Four sub modules under Admin module,
+Admin module consists of 4 sub modules,
           1. Add Librarian. 
           2. View Librarian.
           3. Delete Librarian.
@@ -14,7 +14,7 @@ Four sub modules under Admin module,
           In this module Admin module can add librarian, delete as well as view Librarian.
           Admin can login using a default Name and password as admin.
           
-Librarian module consists of several functionalities,
+Librarian module consists of 5 sub modules,
          1.Add book.
          2.View book.
          3.Issue book.
